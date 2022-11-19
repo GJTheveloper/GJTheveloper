@@ -1,4 +1,4 @@
-# Oi, Meu nome é Gabriel Julio (GJ) 😆
+# Oi, Meu nome é Gabriel Julio 😆
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/GJTrybe/GJTrybe/main/img/Error.gif" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
