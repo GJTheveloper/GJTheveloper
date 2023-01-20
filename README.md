@@ -1,7 +1,6 @@
 # Oi, Meu nome é Gabriel Julio 😆
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/GJTrybe/GJTrybe/main/img/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
     <div align="left" style="display: inline_block">
       <ul>
           <li> 💻 Web Developer Full-Stack </li>
