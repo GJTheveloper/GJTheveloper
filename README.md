@@ -1,4 +1,4 @@
-# Oi, Meu nome é Gabriel Julio 😆
+# Oi, Meu nome é Julio 😆
 
 <div align="center">
     <div align="left" style="display: inline_block">
@@ -13,7 +13,7 @@
           <li> 🏠 São Paulo - Brasil </li>
           <p align="center">
             <a 
-            href="https://linkedin.com/in/gabrieljuliodefaria"
+            href="https://linkedin.com/in/juliodefaria"
             target="_blank"
             >
             <img
